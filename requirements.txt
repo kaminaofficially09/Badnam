@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+requests
+psutil
+telebot 
+python-telegram-bot 
+pytz
